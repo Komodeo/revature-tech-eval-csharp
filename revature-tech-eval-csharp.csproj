@@ -6,7 +6,7 @@
     <RootNamespace>revature_tech_eval_csharp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>StringApplication.StringProg</StartupObject>
+    <StartupObject>StringApplication.StringProg2</StartupObject>
   </PropertyGroup>
 
 </Project>
