@@ -6,7 +6,7 @@
     <RootNamespace>revature_tech_eval_csharp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>InterfaceApplication.Tester</StartupObject>
+    <StartupObject>ErrorHandlingApplication.DivNumbers</StartupObject>
   </PropertyGroup>
 
 </Project>
