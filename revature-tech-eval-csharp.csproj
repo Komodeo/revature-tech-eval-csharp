@@ -6,7 +6,7 @@
     <RootNamespace>revature_tech_eval_csharp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DecisionMaking5.Program</StartupObject>
+    <StartupObject>Loops3.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
