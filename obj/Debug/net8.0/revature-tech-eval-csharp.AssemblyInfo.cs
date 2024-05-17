@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("revature-tech-eval-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93cc19aa708320339036d8cbb25d153d7006e808")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c739b3a22eac4e8b2fdac89b61434c7314d12c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("revature-tech-eval-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("revature-tech-eval-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
