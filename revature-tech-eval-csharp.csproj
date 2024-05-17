@@ -6,7 +6,7 @@
     <RootNamespace>revature_tech_eval_csharp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ErrorHandlingApplication.DivNumbers</StartupObject>
+    <StartupObject>ArrayApplication.MyArray</StartupObject>
   </PropertyGroup>
 
 </Project>
